@@ -1,0 +1,6 @@
+[submodule "signalsmith-stretch"]
+	path = libs/signalsmith-stretch
+	url = https://github.com/Signalsmith-Audio/signalsmith-stretch
+[submodule "libs/libsndfile"]
+	path = libs/libsndfile
+	url = https://github.com/libsndfile/libsndfile
